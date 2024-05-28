@@ -1,0 +1,78 @@
+.gradient-background {
+    background: conic-gradient(from 315deg, #4BB1BB, #1081AA);
+    background-size: 120% 180%;
+    color: aliceblue;
+    padding: 20 px;
+    }
+
+
+.desenvolvimento{
+    margin left: 3rem;
+    margin right: inherit;
+}
+
+.mp-5{
+    text-align: justify;
+}
+
+.melhores{
+    float: left;
+}
+
+.product{
+    margin-top: 40px;
+}
+
+.NMN{
+    margin-left: 2rem; 
+    margin-right: 2rem;
+    text-align: justify;
+    display: list-item;
+}
+
+.suplementos{
+    margin: 2rem;
+}
+
+.list-benefic{
+    margin: 3rem;
+}
+
+.comprar{
+    text-decoration-color:black;
+        
+}
+
+.produtonmn{
+    margin: 3rem;
+}
+
+.imgblog{
+    float: right;
+}
+
+.body-text{
+    text-align: justify;
+    margin-right: 2rem;
+}
+
+.img-produt{
+    float:left;
+    margin: 1rem;
+}
+
+.img-benefic{
+    float: right;
+    margin: 2rem;
+}
+
+.img-long{
+    float: left;
+    margin: 2rem;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 30%;
+}
+
+.registo{
+    margin: 10rem;
+}
